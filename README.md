@@ -1,4 +1,8 @@
+
 <img src="https://i.ibb.co.com/m6NhPTN/Simple-Neon-Stand-Up-Comedy-Show-Youtube-Thumbnail-7.png" alt="Simple-Neon-Stand-Up-Comedy-Show-Youtube-Thumbnail-7" border="0">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Josim-HossainPro)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 💫 About Me:
 <p>Josim Hawladar is a front-end developer specializing in React, Next.js, and Tailwind CSS, dedicated to creating efficient, scalable, and user-friendly web solutions that address real-world challenges. Currently, I am studying Computer Science and Technology at Daffodil Polytechnic Institute. I have completed the Web Design Level-3 exam by the National Skill Development Authority (NSDA). I am a visionary individual with a passion for exploring new technologies. A visionary tech enthusiast, always trying to explore and adapt new technologies.
 
